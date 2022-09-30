@@ -4,7 +4,7 @@
 
  **Michael Altshuler**
 
-![Professional Photo](Photo.jpeg)
+![Professional Photo](Photo.jpg)
 
 ## Passionate about Code and all things IT
 
